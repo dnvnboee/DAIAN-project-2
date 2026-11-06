@@ -1,1 +1,0 @@
-alert("Este es un sitio web de prueba y/o en desarollo");
